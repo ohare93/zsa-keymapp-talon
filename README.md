@@ -2,7 +2,10 @@
 
 Control your ZSA keyboard (Moonlander / Voyager / Ergodox) using the [Keymapp](https://blog.zsa.io/keymapp/) API (Protobuf) in Talon (https://talon.wiki/)
 
-👞 Best enjoyed with a foot pedal - supported by talon https://talon.wiki/quickstart/hardware/#foot-pedals
+🗣 Say `layer two` to switch to that layer. `layer reset` to be back on the default. Can make your own voice command `layer numbers` or `layer symbols` with ease.
+
+👞 Best enjoyed with a foot pedal ([supported by talon](https://talon.wiki/quickstart/hardware/#foot-pedals
+)) to be on a layer while holding the pedal down
 
 # Installation
 
