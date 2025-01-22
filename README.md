@@ -21,9 +21,13 @@ Ensure your Keymapp API is enabled in the application,
 
 ![](./assets/keymapp-settings.png)
 
-Trigger the layer change by using the `set_keymapp_layer` function in a .talon file.
+## keymapp.talon file
 
-### Example
+Say `layer two` to switch to the 2nd layer (layer number 1, 0 is first)
+
+### Making your own talon usage
+
+Trigger the layer change by using the `set_keymapp_layer` function in a .talon file.
 
 Switch between layer 1 and 2 using a foot pedal:
 
